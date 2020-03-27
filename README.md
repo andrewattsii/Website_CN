@@ -13,4 +13,8 @@ Instructions for opening web application.
 Packages will automatically be installed upon compiling....
 
 
+! When app is running enter a number in one of the text fields, and you will get a Star Wars name with gender or Star Wars planet on Post index.
+Press back arrow to return to Get Index !
+
+
 Enjoy !!
